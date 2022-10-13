@@ -1,0 +1,80 @@
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.FormLogin.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.FormUser.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\bin\Debug\Guna.UI2.dll
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.UC.DashboardUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManageMenuUC.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Guna.UI2.dll
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormLogin.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormUser.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.DashboardUC.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManageMenuUC.resources
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\LAB RPL 1\Documents\XII-RPL1\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Guna.UI2.dll
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormLogin.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.DashboardUC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManageMenuUC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManageMejaUC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManagePegawaiUC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.LogAcitvityUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\bin\Debug\Guna.UI2.dll
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormLogin.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.DashboardUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.LogAcitvityUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManageMejaUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManageMenuUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.ManagePegawaiUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CopyComplete
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormKasir.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormAdmin.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.PesanUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.BayarUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.PemasukanUC.resources
+C:\Users\RPL NESAS\Documents\XII-RPL\Krisna Purnama\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormAboutApp.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormAboutApp.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormKasir.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.FormAdmin.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.BayarUC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.PemasukanUC.resources
+C:\Users\rplne\Documents\XII-RPL\Krisna-Purnama\PBO\Re-Restaurant\Restaurant\Restaurant\obj\Debug\Restaurant.UC.PesanUC.resources

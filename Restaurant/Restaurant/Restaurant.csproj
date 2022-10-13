@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{68B94500-E0B7-43CE-AA3C-7C9707C2F96F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Restaurant</RootNamespace>
+    <AssemblyName>Restaurant</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\LaporanGrafikPenjualan.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanGrafikPenjualan.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Engine.cs" />
+    <Compile Include="FormAboutApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAboutApp.Designer.cs">
+      <DependentUpon>FormAboutApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKasir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKasir.Designer.cs">
+      <DependentUpon>FormKasir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC\BayarUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\BayarUC.Designer.cs">
+      <DependentUpon>BayarUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\DashboardUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\DashboardUC.Designer.cs">
+      <DependentUpon>DashboardUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\LogAcitvityUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\LogAcitvityUC.Designer.cs">
+      <DependentUpon>LogAcitvityUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ManageMejaUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ManageMejaUC.Designer.cs">
+      <DependentUpon>ManageMejaUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ManageMenuUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ManageMenuUC.Designer.cs">
+      <DependentUpon>ManageMenuUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\ManagePegawaiUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\ManagePegawaiUC.Designer.cs">
+      <DependentUpon>ManagePegawaiUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\PemasukanUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\PemasukanUC.Designer.cs">
+      <DependentUpon>PemasukanUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC\PesanUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC\PesanUC.Designer.cs">
+      <DependentUpon>PesanUC.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormAboutApp.resx">
+      <DependentUpon>FormAboutApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKasir.resx">
+      <DependentUpon>FormKasir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UC\BayarUC.resx">
+      <DependentUpon>BayarUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\DashboardUC.resx">
+      <DependentUpon>DashboardUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\LogAcitvityUC.resx">
+      <DependentUpon>LogAcitvityUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ManageMejaUC.resx">
+      <DependentUpon>ManageMejaUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ManageMenuUC.resx">
+      <DependentUpon>ManageMenuUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\ManagePegawaiUC.resx">
+      <DependentUpon>ManagePegawaiUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\PemasukanUC.resx">
+      <DependentUpon>PemasukanUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC\PesanUC.resx">
+      <DependentUpon>PesanUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Data\LaporanGrafikPenjualan.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LaporanGrafikPenjualan.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Data\LaporanGrafikPenjualan.dbml.layout">
+      <DependentUpon>LaporanGrafikPenjualan.dbml</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

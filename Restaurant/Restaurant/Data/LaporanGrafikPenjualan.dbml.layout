@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LaporanGrafikPenjualan">
+  <DataContextMoniker Name="/LaporanGrafikPenjualanDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6503b5cc-728c-4dd5-aec8-7ae19bb9d79c" absoluteBounds="2.875, 2.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/LaporanGrafikPenjualanDataContext/LaporanGrafikPendapatan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8bfe8d3f-4627-4540-867e-be6d8631d88c" absoluteBounds="2.89, 2.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
