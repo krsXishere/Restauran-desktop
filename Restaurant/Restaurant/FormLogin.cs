@@ -40,6 +40,7 @@ namespace Restaurant
                     nama_user = data.Rows[0][1].ToString();
                     level_user = data.Rows[0][2].ToString();
                     engine.LogActivity("login");
+
                     if(level_user == "Admin")
                     {
                         FormAdmin fa = new FormAdmin();
@@ -57,12 +58,32 @@ namespace Restaurant
                     wrong.Visible = true;
                     guna2TextBox1.Clear();
                     guna2TextBox2.Clear();
+
+                    Timer myTimer = new Timer();
+                    myTimer.Interval = (3 * 1000);
+                    myTimer.Tick += new EventHandler(timer1_Tick);
+                    myTimer.Start();
                 }
             }
             else
             {
                 engine.FillAllFields();
             }
+        }
+
+        private void guna2TextBox2_MouseHover(object sender, EventArgs e)
+        {
+            guna2TextBox2.PasswordChar = '\0';
+        }
+
+        private void guna2TextBox2_MouseLeave(object sender, EventArgs e)
+        {
+            guna2TextBox2.PasswordChar = '•';
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            wrong.Visible = false;
         }
     }
 }

@@ -27,5 +27,24 @@ namespace Restaurant.UC
             chart1.Series["Pendapatan"].YValueMembers = "Pendapatan";
             chart1.Series["Pendapatan"].YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int32;
         }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+            Bitmap chartPanel = new Bitmap(panel1.Width, panel1.Height);
+            panel1.DrawToBitmap(chartPanel, new Rectangle(0, 0, panel1.Width, panel1.Width));
+
+            PrintDialog printDialog = new PrintDialog();
+
+            if(printDialog.ShowDialog() == DialogResult.OK)
+            {
+                System.Drawing.Printing.PrinterSettings values;
+                values = printDialog.PrinterSettings;
+                printDialog.Document = printDocument1;
+                printDocument1.PrintController = new System.Drawing.Printing.StandardPrintController();
+                printDocument1.Print();
+            }
+
+            printDocument1.Dispose();
+        }
     }
 }

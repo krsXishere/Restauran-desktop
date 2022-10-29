@@ -112,6 +112,7 @@ namespace Restaurant.UC
                     dataTable.Clear();
                     Clear();
                     txtNomorMeja.Text = "";
+                    txtTotalBayar.Text = "";
                     PesanUC_Load(this, null);
                     engine.LogActivity("memesan menu dan meja");
 
@@ -125,7 +126,7 @@ namespace Restaurant.UC
 
         private void guna2TextBox1_TextChanged(object sender, EventArgs e)
         {
-            DataSet data = engine.GetData("select * from meja where kode_meja like '%" + guna2TextBox1.Text + "%' or nomor_meja like '%" + guna2TextBox1.Text + "%' or status_meja like '%" + guna2TextBox1.Text + "%'");
+            DataSet data = engine.GetData("select * from meja where kode_meja like '%" + guna2TextBox1.Text + "%' or nomor_meja like '%" + guna2TextBox1.Text + "%'");
             guna2DataGridView2.DataSource = data.Tables[0];
         }
 
